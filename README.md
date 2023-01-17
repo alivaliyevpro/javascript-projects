@@ -10,3 +10,4 @@
 8. Menu
 9. Video & Preloader
 10. Scroll
+11. Tabs
