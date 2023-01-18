@@ -12,3 +12,4 @@
 10. Scroll
 11. Tabs
 12. Countdown-timer
+12. Lorem-ipsum generator
