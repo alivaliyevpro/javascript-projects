@@ -14,3 +14,4 @@
 12. Countdown-timer
 13. Lorem-ipsum generator
 14. Grocery Bud
+15. Slider
